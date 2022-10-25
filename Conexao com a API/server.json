@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-10-20T18:33:41.927Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 30,
+      "createdAt": "2022-10-20T18:30:41.927Z"
+    },
+    {
+      "id": 3,
+      "description": "Bolo",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 15,
+      "createdAt": "2022-10-20T18:40:41.927Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "category": "trabalho",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2022-10-22T03:17:08.127Z",
+      "id": 4
+    },
+    {
+      "description": "Cafe",
+      "category": "comida",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2022-10-22T03:37:40.331Z",
+      "id": 5
+    }
+  ]
+}
